@@ -1,4 +1,6 @@
 # research-framework data directory
+This folder is *not* in version control!
+
 Store data files in cloud-based storage (e.g. Dropbox, AWS S3).
 
 Backup important data files to a separate location!
