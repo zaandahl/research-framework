@@ -1,5 +1,5 @@
 # research-framework results directory
-Your methods should save their results here.
+Your methods should save their results here. This folder is *not* in version control!
 
 Backup results from your methods in cloud-based storage (e.g. Dropbox, AWS S3).
 
