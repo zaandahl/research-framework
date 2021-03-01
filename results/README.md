@@ -9,5 +9,5 @@ Keep results organised in folders indicating the date they were generated.
 
 Update this README.md file with information about results and where to find them.
 
-2021-03-01/model_fits.rds - main model fits, stored in AWS
-2021-03-02/model_comparisons.rds - CV model comparisons stored in AWS
+    2021-03-01/model_fits.rds - main model fits, stored in AWS
+    2021-03-02/model_comparisons.rds - CV model comparisons stored in AWS
