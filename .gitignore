@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Data files and results files (except for README.md)
+.DS_Store
+data/*
+!data/README.md
+results/*
+!results/README.md
