@@ -1,6 +1,6 @@
 # Research Framework
 
-Welcome to the **Research Framework** repository! This repo provides a standardized template for research coding projects, aimed at streamlining your research workflow and making it easy to collaborate, reproduce, and share your work.
+Welcome to the **Research Framework** repository! This repo provides a standardized template for R based research coding projects, aimed at streamlining your research workflow and making it easy to collaborate, reproduce, and share your work.
 
 ## Directory Structure
 
@@ -29,7 +29,7 @@ Three additional files are included in the root of the repository:
 
 To start using this research framework template for your own project, follow these steps:
 
-1. Click the green "Use this template" button at the top of the [repository page](https://github.com/username/research-framework).
+1. Click the "Use this template" button at the top of the [repository page](https://github.com/username/research-framework).
 2. Choose a name for your new repository, set the visibility to public or private, and click "Create repository from template."
 3. Clone the newly created repository to your local machine using `git clone https://github.com/yourusername/yourrepositoryname.git`.
 4. Navigate to the cloned repository folder on your local machine using the terminal or command prompt.
